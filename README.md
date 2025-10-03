@@ -26,7 +26,7 @@ Transform your Canva designs into beautiful, responsive HTML/CSS code using AI.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/canva-to-html.git
+git clone https://github.com/Ahmed-Mohamed-Fawzy/HTML_CSS_Designer/blob/main/README.md
 cd canva-to-html
 ```
 
@@ -79,5 +79,6 @@ MIT License - feel free to use this project for personal or commercial purposes.
 ---
 
 Made with ❤️ by Ahmed Fawzy
+
 
 
