@@ -4,7 +4,7 @@ Transform your Canva designs into beautiful, responsive HTML/CSS code using AI.
 
 ## 🚀 Live Demo
 
-[View Live App](https://your-app.streamlit.app) _(after deployment)_
+[View Live App](https://html-css-designer.streamlit.app/) 
 
 ## ✨ Features
 
@@ -79,4 +79,5 @@ MIT License - feel free to use this project for personal or commercial purposes.
 ---
 
 Made with ❤️ by Ahmed Fawzy
+
 
