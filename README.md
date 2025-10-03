@@ -49,21 +49,6 @@ streamlit run streamlit_app.py
 
 5. Open browser at `http://localhost:8501`
 
-## 🌐 Deploy to Streamlit Cloud (FREE)
-
-1. Push your code to GitHub
-
-2. Go to [share.streamlit.io](https://share.streamlit.io)
-
-3. Click "New app"
-
-4. Select your repository
-
-5. Set main file: `streamlit_app.py`
-
-6. Click "Deploy"
-
-7. Your app will be live at: `https://your-app-name.streamlit.app`
 
 ## 🔒 Security
 
@@ -94,3 +79,4 @@ MIT License - feel free to use this project for personal or commercial purposes.
 ---
 
 Made with ❤️ by Ahmed Fawzy
+
